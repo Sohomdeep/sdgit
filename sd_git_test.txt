@@ -1,1 +1,2 @@
 this is a txt file in git
+line 2 new add from deskop
