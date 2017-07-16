@@ -1,3 +1,4 @@
 add first line from desktop(for conflict check)
+add first line from laptop (for conflict chk)
 this is a txt file in git
 line 2 new add from deskop
